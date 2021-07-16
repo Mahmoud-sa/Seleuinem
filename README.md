@@ -1,6 +1,6 @@
 # Seleuinem
 
-#TESTNG
+#TESTNG;
 MAVEN
 JAVA
 POM
